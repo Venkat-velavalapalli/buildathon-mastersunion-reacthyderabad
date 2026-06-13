@@ -23,7 +23,7 @@ This project helps analyze HR costs and optimize workforce expenses using AI.
 https://github.com/Venkat-velavalapalli/ai-buildathon-project
 
 ## 🔗 LinkedIn
-(Add your LinkedIn link)
+www.linkedin.com/in/velavalapalli-venkat-8bb3821bb
 
 ## 🧑‍💻 GitHub Username
 Venkat-velavalapalli
